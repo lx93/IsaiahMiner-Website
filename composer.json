@@ -1,0 +1,11 @@
+{
+    "name": "isaiah/contact",
+    "description": "contact form for isaiahminer.com",
+    "authors": [
+        {
+            "name": "Xiang Li",
+            "email": "lx93@me.com"
+        }
+    ],
+    "require": {}
+}
